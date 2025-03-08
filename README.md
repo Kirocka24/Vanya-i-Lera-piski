@@ -9,6 +9,6 @@
 <body>
     <h1>приветик у меня вопросик..</h1>
     <p>гоу играть?.</p>
-    <button onclick="alert('молодец!')">Нажми если да</button>
+    <button onclick="alert('молодец!')">позвони мне</button>
 </body>
 </html>
