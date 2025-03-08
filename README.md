@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Лера и Ваня пис.. хех</title>
+    Лера и Ваня пис.. хех
 </head>
 <body>
     <h1>приветик у меня вопросик..</h1>
